@@ -1,7 +1,10 @@
+import LineChart1 from "./components/LineChart1";
+import "./App.css";
+
 function App() {
   return (
     <div className="App">
-      <h1>Hello</h1>
+      <LineChart1 />
     </div>
   );
 }
